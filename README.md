@@ -4,11 +4,11 @@ This port will be turned into a proper node.js module/package as soon as I get a
 
 I'm also working on an eventual fork of this library that adds some generic type checking.
 
-Below is the blog post/documentation that Dean Edwards published for the original library:
+Below is a copy of the [blog post/documentation](http://dean.edwards.name/weblog/2006/03/base/) that Dean Edwards published for the original library:
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-## A Base Class for JavaScript [Inheritance](http://dean.edwards.name/weblog/2006/03/base/)
+## A Base Class for JavaScript Inheritance
 
 I'm an OO programmer at heart and JavaScript supports prototype based
 inheritance. Unfortunatley this leads to verbose class definitions:
