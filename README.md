@@ -8,7 +8,7 @@ Below is the blog post/documentation that Dean Edwards published for the origina
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-## [A Base Class for JavaScript Inheritance](http://dean.edwards.name/weblog/2006/03/base/)
+[## A Base Class for JavaScript Inheritance](http://dean.edwards.name/weblog/2006/03/base/)
 
 I'm an OO programmer at heart and JavaScript supports prototype based
 inheritance. Unfortunatley this leads to verbose class definitions:
