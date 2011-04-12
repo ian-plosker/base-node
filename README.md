@@ -6,6 +6,8 @@ I'm also working on an eventual fork of this library that adds some generic type
 
 Below is the blog post/documentation that Dean Edwards published for the original library:
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 ## A Base Class for JavaScript Inheritance
 
 I'm an OO programmer at heart and JavaScript supports prototype based
