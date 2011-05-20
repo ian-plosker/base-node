@@ -2,7 +2,7 @@ This is a basic port of Dean Edward's Base javascript library for inheritance. Y
 
 This port will be turned into a proper node.js module/package as soon as I get around to it, but for now to can be imported into a node project using the standard `var Base = requires('PATH/TO/base.js');`.
 
-I'm also working on an eventual fork of this library that adds some generic type checking.
+I'm also working on a fork of this library that adds some generic-style type checking.
 
 Below is a copy of the [blog post/documentation](http://dean.edwards.name/weblog/2006/03/base/) that Dean Edwards published for the original library:
 
